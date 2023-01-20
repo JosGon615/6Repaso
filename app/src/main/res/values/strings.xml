@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">6Repaso</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="name">Name</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre</string>
+    <string name="todo">TODO</string>
+</resources>
